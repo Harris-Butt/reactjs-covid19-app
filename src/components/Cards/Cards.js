@@ -1,5 +1,5 @@
 import React from 'react';
-import {Card,Typography,CardContent,Grid, StylesProvider} from '@material-ui/core';
+import {Card,Typography,CardContent,Grid} from '@material-ui/core';
 import styles from './Cards.module.css';
 import CountUp from 'react-countup';
 import cx from 'classnames';
